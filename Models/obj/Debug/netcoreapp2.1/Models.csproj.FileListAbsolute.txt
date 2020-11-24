@@ -1,0 +1,9 @@
+D:\excercise\APISample\Models\bin\Debug\netcoreapp2.1\Models.deps.json
+D:\excercise\APISample\Models\bin\Debug\netcoreapp2.1\Models.dll
+D:\excercise\APISample\Models\bin\Debug\netcoreapp2.1\Models.pdb
+D:\excercise\APISample\Models\obj\Debug\netcoreapp2.1\Models.csprojAssemblyReference.cache
+D:\excercise\APISample\Models\obj\Debug\netcoreapp2.1\Models.csproj.CoreCompileInputs.cache
+D:\excercise\APISample\Models\obj\Debug\netcoreapp2.1\Models.AssemblyInfoInputs.cache
+D:\excercise\APISample\Models\obj\Debug\netcoreapp2.1\Models.AssemblyInfo.cs
+D:\excercise\APISample\Models\obj\Debug\netcoreapp2.1\Models.dll
+D:\excercise\APISample\Models\obj\Debug\netcoreapp2.1\Models.pdb

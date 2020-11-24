@@ -1,0 +1,14 @@
+D:\excercise\APISample\APISample\bin\Debug\netcoreapp2.1\APISample.deps.json
+D:\excercise\APISample\APISample\bin\Debug\netcoreapp2.1\APISample.runtimeconfig.json
+D:\excercise\APISample\APISample\bin\Debug\netcoreapp2.1\APISample.runtimeconfig.dev.json
+D:\excercise\APISample\APISample\bin\Debug\netcoreapp2.1\APISample.dll
+D:\excercise\APISample\APISample\bin\Debug\netcoreapp2.1\APISample.pdb
+D:\excercise\APISample\APISample\obj\Debug\netcoreapp2.1\APISample.csproj.CoreCompileInputs.cache
+D:\excercise\APISample\APISample\obj\Debug\netcoreapp2.1\APISample.RazorAssemblyInfo.cache
+D:\excercise\APISample\APISample\obj\Debug\netcoreapp2.1\APISample.RazorAssemblyInfo.cs
+D:\excercise\APISample\APISample\obj\Debug\netcoreapp2.1\APISample.AssemblyInfoInputs.cache
+D:\excercise\APISample\APISample\obj\Debug\netcoreapp2.1\APISample.AssemblyInfo.cs
+D:\excercise\APISample\APISample\obj\Debug\netcoreapp2.1\APISample.RazorTargetAssemblyInfo.cache
+D:\excercise\APISample\APISample\obj\Debug\netcoreapp2.1\APISample.dll
+D:\excercise\APISample\APISample\obj\Debug\netcoreapp2.1\APISample.pdb
+D:\excercise\APISample\APISample\obj\Debug\netcoreapp2.1\APISample.csprojAssemblyReference.cache
